@@ -1,0 +1,7 @@
+{
+  "name": "ai-design-workbench",
+  "version": "1.2.0",
+  "private": true,
+  "description": "M1.2 usability MVP for translating designer intent into AI-ready prompts",
+  "scripts": {"test":"node --test tests/compiler.test.js tests/runtime.test.js"}
+}
